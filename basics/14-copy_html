@@ -1,2 +1,2 @@
 #!/bin/bash
-cp .html /basics /basics/../
+rm -rf /tmp/*.html
