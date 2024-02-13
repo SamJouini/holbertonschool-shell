@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u=rwx, g+x, o+x my_dir
+chmod u+rwx, g+x, o+x my_dir
