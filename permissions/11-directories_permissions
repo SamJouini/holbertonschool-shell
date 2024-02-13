@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r ugo+rwX  permissions
+chmod -r ugo+rwx permissions
