@@ -1,2 +1,2 @@
 #!/bin/bash
-cp tail -1 iacta {2}
+echo tail -1 iacta {1}
