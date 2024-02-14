@@ -1,0 +1,2 @@
+#!/bin/bash
+echo tr A Z | tr c e
