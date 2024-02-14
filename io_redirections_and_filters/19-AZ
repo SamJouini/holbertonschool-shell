@@ -1,2 +1,2 @@
 #!/bin/bash
-echo tr AZ ce
+echo | tr Ac Ze
