@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%xn' $NUM
+BINARY=00101011 | echo $(( 2#$BINARY))
