@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -name "*.gif" -printf "%f\n" | FILENAME="${FILE%.*}" | sort -fbdu
+find . -type f -name "*.gif" -printf "%f\n" | FILENAME="${FILE%.*}" | LC_ALL=C sort -fbdu
